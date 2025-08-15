@@ -1,5 +1,3 @@
-.square:before{
-    content: "aaaaaa";
-    display: block;
-    padding-top: 100%;  /* initial ratio of 1:1*/
+.container{
+   columns: 2; 
 }
